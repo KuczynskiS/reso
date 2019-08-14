@@ -1,4 +1,5 @@
 <?php
+//definicje klas
 
 require_once("db.inc");
 
